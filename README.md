@@ -8,3 +8,8 @@ Dans cet exercice, j’ai créé un programme qui demande à l’utilisateur de 
 
 EXERCICE2
 
+<img width="293" height="188" alt="image" src="https://github.com/user-attachments/assets/d8fad596-b593-40c9-a0ec-9276c21cb7a6" />
+
+
+Dans cet exercice, j’ai créé une classe `Personne` contenant deux attributs : `nom` et `age`. J’ai utilisé un constructeur pour initialiser les attributs lors de la création de l’objet. Dans la fonction `main`, j’ai alloué dynamiquement un objet `Personne` à l’aide de `new`, puis j’ai affiché ses informations en utilisant un pointeur. Enfin, j’ai libéré la mémoire avec `delete` et affecté `nullptr` au pointeur.
+
