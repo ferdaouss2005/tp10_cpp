@@ -13,3 +13,12 @@ EXERCICE2
 
 Dans cet exercice, j’ai créé une classe `Personne` contenant deux attributs : `nom` et `age`. J’ai utilisé un constructeur pour initialiser les attributs lors de la création de l’objet. Dans la fonction `main`, j’ai alloué dynamiquement un objet `Personne` à l’aide de `new`, puis j’ai affiché ses informations en utilisant un pointeur. Enfin, j’ai libéré la mémoire avec `delete` et affecté `nullptr` au pointeur.
 
+EXERCICE3
+
+<img width="402" height="329" alt="image" src="https://github.com/user-attachments/assets/6e5cc736-6778-49b2-88af-6a258cedf950" />
+
+Dans cet exercice, j’ai créé une classe `Livre` contenant deux attributs privés : `titre` et `prix`. J’ai utilisé un constructeur par défaut pour initialiser les attributs, ainsi que deux méthodes pour saisir et afficher les informations des livres. Dans la fonction `main`, j’ai demandé à l’utilisateur le nombre de livres à créer, puis j’ai alloué dynamiquement un tableau d’objets `Livre` avec `new[]`. J’ai rempli et affiché chaque élément du tableau à l’aide d’une boucle. Enfin, j’ai libéré la mémoire avec `delete[]` et affecté `nullptr` au pointeur.
+
+
+
+
